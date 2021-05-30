@@ -1,0 +1,45 @@
+*
+
+{
+	font-family:verdana;
+	margin:3px;
+	padding:3px;
+	
+	}
+img 
+{
+	width:95%;
+	height:90%;
+	}
+h1
+{ 
+	text-align:center;
+	color:red;
+	 font-size:45px;
+	 text-decoration:underline;
+	
+	}
+h2
+{ text-align: center ;
+	color:#003333;
+	text-decoration:underline;
+}
+#cont1
+{
+	background: #CCCCCC;}
+header 
+{
+height:100%}
+@media screen and (max-width:500px)
+{ 
+	body
+	{ background:#336699;
+	}
+}
+@media screen and (min-width:500px)
+{ body
+	{ background:#0066CC;
+	
+	}
+	
+}
